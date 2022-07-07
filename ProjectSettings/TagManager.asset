@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Damageable
+  - mainPlayer
+  - Bullet
+  - enemyStopper
+  - mind
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - Prop
+  - Plant
+  - Bullet
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Props
+    uniqueID: 4167491241
+    locked: 0
+  - name: Adventurer
+    uniqueID: 818377685
+    locked: 0
+  - name: InteractiveObjects
+    uniqueID: 4169691947
+    locked: 0
+  - name: Ground
+    uniqueID: 2060198047
+    locked: 0
